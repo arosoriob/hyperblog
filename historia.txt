@@ -5,7 +5,14 @@ Ahora se agrega la edad de 31 años
 soy un hacker y quiero mi nueva historia
 
 
+Experimento 1
+
+
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+
+>>>>>>> 64a71b8 (experimento 1)
 
